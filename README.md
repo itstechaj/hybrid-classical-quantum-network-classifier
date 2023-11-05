@@ -1,4 +1,4 @@
-# hybrid-classical-quantum-neural-network-classifier
+# Hybrid-Classical-Quantum-Neural-Network-Classifier
 Using Quantum circuits and feature maps to improve the efficiency of Classical Deep learning based classifier model. 
 
 Please Visit this link to access the Project Explanation video and other important files : 
